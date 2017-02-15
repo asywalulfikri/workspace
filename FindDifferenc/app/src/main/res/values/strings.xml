@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Find Differences</string>   
+    <string name="admob_id">YOUR_ADMOB_ID</string> 
+    <string name="found">Found</string>
+    <string name="score">Score</string>
+    <string name="btnHome">Home</string>
+    <string name="btnNext">Next</string>
+    <string name="btnStart">Start</string>
+    <string name="btnResume">Resume</string>
+    <string name="summary">Summary Data</string>
+    <string name="btnFinish">Finish</string>
+    <string name="youlose">You lose !!!</string>
+    <string name="success_title">"Well Done!"</string>
+    <string name="success">Your score is {0}.\n\nThe high score is {1}.</string>
+    <string name="hiscore_title">"New High Score!</string>
+        <string name="hiscore">You\'\'ve set the new high score to {0}. \n\nThe old high score was {1}.</string>
+</resources>

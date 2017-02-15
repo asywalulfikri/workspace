@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_gravity="center_horizontal"
+    android:layout_height="match_parent"
+    android:background="@color/aa"
+    android:orientation="vertical">
+
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_height="50dp"
+        app:adSize="BANNER"
+        android:visibility="visible"
+        app:adUnitId="ca-app-pub-4914903732265878/8153794147">
+    </com.google.android.gms.ads.AdView>
+
+    <Button
+        android:id="@+id/btnNext"
+        android:layout_marginTop="156dp"
+        android:layout_width="209dip"
+        android:gravity="center"
+        android:layout_height="55dip"
+        android:text="NEXT"
+        android:layout_gravity="center_horizontal"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

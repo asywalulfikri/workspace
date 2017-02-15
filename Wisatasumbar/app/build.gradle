@@ -1,0 +1,66 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion "24.0.2"
+    useLibrary 'org.apache.http.legacy'
+
+    packagingOptions {
+        exclude 'META-INF/DEPENDENCIES'
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'META-INF/NOTICE.txt'
+        exclude 'META-INF/LICENSE-FIREBASE.txt'
+
+    }
+
+    defaultConfig {
+        applicationId "com.minangwisatasumbar.asywalulfikri.wisatasumbar"
+        minSdkVersion 15
+        targetSdkVersion 24
+        versionCode 1
+        versionName "1.0"
+        multiDexEnabled true
+        vectorDrawables.useSupportLibrary = true
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:appcompat-v7:24.2.1'
+    compile 'com.android.support:recyclerview-v7:24.2.1'
+    compile 'com.android.support:cardview-v7:24.2.1'
+    compile 'com.android.support:palette-v7:24.2.1'
+    compile 'com.android.support:design:24.2.1'
+    compile 'com.google.firebase:firebase-auth:9.4.0'
+    compile 'com.google.firebase:firebase-crash:9.4.0'
+    compile 'com.facebook.android:facebook-android-sdk:4.0.0'
+    //facebook  login
+    compile 'com.google.code.gson:gson:2.3.1'
+    compile 'com.github.bumptech.glide:glide:3.6.1'
+    // buat nampilin gambar
+    compile 'jp.wasabeef:picasso-transformations:2.1.0'
+    // buat nampilin gambar
+    compile 'com.joooonho:selectableroundedimageview:1.0.1'
+    // kasih round image
+    compile 'com.lapism:searchview:3.6'
+    // search View
+    compile 'jp.wasabeef:blurry:2.0.2'
+    // Ngebluur Gambar
+    compile 'com.mcxiaoke.volley:library:1.0.19'
+    // Volley
+    compile('com.twitter.sdk.android:twitter:1.9.1@aar') {
+        transitive = true;
+    }
+    compile 'com.github.zomato:androidphotofilters:1.0.1'
+    compile files('libs/nineoldandroids-2.4.0.jar')
+}
+apply plugin: 'com.google.gms.google-services'

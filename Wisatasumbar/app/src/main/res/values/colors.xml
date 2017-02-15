@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorFacebook">#3b5998</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorTwitter">#33ccff</color>
+    <color name="colorRegister">#FF3D00</color>
+    <color name="colorLogin">#2196F3</color>
+    <color name="colorBlack">#000</color>
+
+
+
+
+    <color name="thumb_background_color">#000000</color>
+    <color name="zomato_red">#a40100</color>
+    <color name="placeholder_background">#222322</color>
+</resources>

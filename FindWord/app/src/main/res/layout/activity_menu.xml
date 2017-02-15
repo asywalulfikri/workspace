@@ -1,0 +1,114 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/top_bar"
+        android:background="@color/blue">
+        <com.google.android.gms.ads.AdView
+            android:id="@+id/adView"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            app:adSize="BANNER"
+            app:adUnitId="ca-app-pub-4914903732265878/7601843344">
+        </com.google.android.gms.ads.AdView>
+    </FrameLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true">
+
+        <LinearLayout
+            android:id="@+id/title_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_horizontal">
+
+            <searchword.findtheword.onesearch.ui.components.GameBoldTextView
+                android:textSize="30sp"
+                android:text="SEARCH"
+                android:textColor="#f44336"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <searchword.findtheword.onesearch.ui.components.GameBoldTextView
+                android:textSize="30sp"
+                android:text=" WORD "
+                android:textColor="@color/blue"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_below="@+id/title_layout"
+            android:layout_marginTop="16dp"
+            android:id="@+id/button_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_centerHorizontal="true">
+
+
+            <searchword.findtheword.onesearch.ui.components.GameButton
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/element_margin_separation"
+                android:text="@string/menu_easy"
+                android:id="@+id/bMenuEasy" />
+
+            <searchword.findtheword.onesearch.ui.components.GameButton
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/element_margin_separation"
+                android:text="@string/menu_medium"
+                android:id="@+id/bMenuMedium" />
+
+            <searchword.findtheword.onesearch.ui.components.GameButton
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/element_margin_separation"
+                android:text="@string/menu_hard"
+                android:id="@+id/bMenuHard" />
+
+            <searchword.findtheword.onesearch.ui.components.GameButton
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/element_margin_separation"
+                android:text="@string/menu_advanced"
+                android:id="@+id/bMenuAdvanced" />
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/element_margin_separation"
+                android:text="EXIT"
+                android:background="@drawable/corner_comment"
+                android:textColor="@android:color/white"
+                android:textSize="15sp"
+                android:id="@+id/btnExit" />
+
+
+            <com.google.android.gms.common.SignInButton
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/element_margin_separation"
+                android:visibility="gone"
+                android:id="@+id/bMenuSignIn" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_height="@dimen/bottom_bar"
+        android:background="@color/blue"
+        android:id="@+id/frameLayout"></FrameLayout>
+
+</RelativeLayout>

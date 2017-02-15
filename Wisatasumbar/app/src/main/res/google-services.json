@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "251224262365",
+    "firebase_url": "https://wisatasumbar-3770f.firebaseio.com",
+    "project_id": "wisatasumbar-3770f",
+    "storage_bucket": "wisatasumbar-3770f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251224262365:android:a97b717b868cd303",
+        "android_client_info": {
+          "package_name": "com.minangwisatasumbar.asywalulfikri.wisatasumbar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251224262365-a7mfp5sugfsuftpvu9le9gm2lc9nrhlj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.minangwisatasumbar.asywalulfikri.wisatasumbar",
+            "certificate_hash": "6CEAB5DC85D433E579C0A47C96CB6DFEF0251A12"
+          }
+        },
+        {
+          "client_id": "251224262365-dnnfbup4u2a8upr644293inatcp8c1mc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0ustKXbWr3OmzL_2OpinlS1QIqFppdJQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251224262365-dnnfbup4u2a8upr644293inatcp8c1mc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

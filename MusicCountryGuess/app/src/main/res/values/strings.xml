@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Guess Popular Hits Song</string>
+    <string name="title_activity_pass">PassActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_guide">GuideActivity</string>
+    <string name="action_settings">setting</string>
+    <string name="multilines">Line1Line1\nLine2Line2</string>
+    <string name="cara">THERE ARE DOZENS POP SONG TO BE POPULAR IN THE CRUSH, MAIN WAY EASY, JUST CRUSH TITLE SONG OF MUSIC IN PLAY EVERY RIGHT ANSWER MAY +50 POINTS, NO 2 HELP YOU CAN SEE FOR USE IN ONE WORD, ANOTHER ONE FOR REMOVING THE BEAM LETTERS, MUSIC CAN PLAY BEHIND THE SOUNDS NOT SURE IF, FOR MUSIC USING 2 OR 3 KEY INTEREST spaces eMPTY WORDS, IF ALREADY CAN END GAME PLAYING AGAIN</string>
+    <string name="selamat">CONGRATULATIONS YOU HAVE COMPLETED THE POPULAR SONG CRUSH</string>
+    <string name="selamat2">CONGRATULATIONS YOU HAVE COMPLETED THE POPULAR SONG CRUSH</string>
+
+    <string name="text_next">NEXT</string>
+    <string name="text_point_bisa_ditambah">Point can be added if the point is less than 10</string>
+    <string name="text_point_kurang">POINT LESS CLICK TO ADD POINT</string>
+    <string name="text_lihat_huruf">CHECK LETTERS POINT -20</string>
+    <string name="text_hapus_balok_huruf">ELIMINATE BLOCK LETTERS LESS 20</string>
+    <string name="text_emas_kurang">POINT LESS CLICK TO ADD POINT</string>
+    <string name="text_ada_huruf">THERE WORD  =   </string>
+    <string name="ya">YES</string>
+    <string name="tidak">NO</string>
+
+    <string name="text_tebak_lirik">CRUSH LYRICS</string>
+    <string name="text_tebak_judul">GUES SONG</string>
+    <string name="text_tebak_penyanyi">GUES SINGER</string>
+    <string name="text_tebak_pencipta">CRUSH THE CREATOR</string>
+    <string name="text_rank">RANK</string>
+    <string name="text_right_answer">YOUR ANSWER RIGHT </string>
+    <string name="text_wrong_answer">YOUR ANSWER STILL WRONG</string>
+    <string name="text_next1">NEXT</string>
+    <string name="text_selesai">DONE  : </string>
+    <string name="text_bantuan">HELP 1</string>
+    <string name="text_bantuann">HELP 2</string>
+    <string name="text_cara_main">HOW TO PLAY</string>
+</resources>

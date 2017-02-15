@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stages>
+
+
+
+	<stage>
+		<image1>images/pic_18.jpg</image1>
+		<image2>images/pic_18a.jpg</image2>
+		<difference x="441" y="172" radius="28"/>
+		<difference x="354" y="210" radius="28"/>
+		<difference x="128" y="73" radius="28"/>
+		<difference x="460" y="317" radius="28"/>
+		<difference x="154" y="243" radius="28"/>
+
+	</stage>
+
+
+	<stage>
+		<image1>images/pic_19.jpg</image1>
+		<image2>images/pic_19a.jpg</image2>
+		<difference x="150" y="73" radius="28"/>
+		<difference x="248" y="112" radius="28"/>
+		<difference x="446" y="78" radius="28"/>
+		<difference x="117" y="128" radius="28"/>
+
+	</stage>
+
+	<stage>
+		<image1>images/pic_13.jpg</image1>
+		<image2>images/pic_13a.jpg</image2>
+		<difference x="115" y="289" radius="28"/>
+		<difference x="375" y="338" radius="28"/>
+		<difference x="530" y="277" radius="28"/>
+		<difference x="512" y="88" radius="28"/>
+		<difference x="119" y="127" radius="28"/>
+
+	</stage>
+
+	<stage>
+		<image1>images/pic_6.jpg</image1>
+		<image2>images/pic_6a.jpg</image2>
+		<difference x="497" y="251" radius="28"/>
+		<difference x="139" y="397" radius="28"/>
+		<difference x="92" y="52" radius="28"/>
+		<difference x="39" y="268" radius="28"/>
+		<difference x="529" y="80" radius="28"/>
+
+	</stage>
+
+	<stage>
+		<image1>images/pic_4.jpg</image1>
+		<image2>images/pic_4a.jpg</image2>
+		<difference x="48" y="309" radius="28"/>
+		<difference x="456" y="338" radius="28"/>
+		<difference x="260" y="160" radius="28"/>
+		<difference x="384" y="219" radius="28"/>
+		<difference x="236" y="83" radius="28"/>
+		<difference x="459" y="234" radius="28"/>
+		<difference x="522" y="143" radius="28"/>
+
+	</stage>
+
+
+
+	<stage>
+		<image1>images/pic_17.jpg</image1>
+		<image2>images/pic_17a.jpg</image2>
+		<difference x="195" y="259" radius="28"/>
+		<difference x="76" y="224" radius="28"/>
+		<difference x="509" y="130" radius="28"/>
+		<difference x="466" y="251" radius="28"/>
+		<difference x="402" y="246" radius="28"/>
+		<difference x="200" y="28" radius="28"/>
+		<difference x="293" y="201" radius="28"/>
+		<difference x="40" y="270" radius="28"/>
+
+	</stage>
+
+
+
+	<stage>
+		<image1>images/pic_20.jpg</image1>
+		<image2>images/pic_20a.jpg</image2>
+		<difference x="415" y="146" radius="28"/>
+		<difference x="521" y="155" radius="28"/>
+		<difference x="326" y="279" radius="28"/>
+		<difference x="19" y="180" radius="28"/>
+		<difference x ="112" y="190" radius="28"/>
+
+	</stage>
+    
+
+	<stage>
+		<image1>images/pic_9.jpg</image1>
+		<image2>images/pic_9a.jpg</image2>		
+		<difference x="423" y="109" radius="28"/>
+		<difference x="332" y="296" radius="28"/>
+		<difference x="266" y="259" radius="28"/>
+		<difference x="361" y="69" radius="28"/>
+		<difference x="291" y="108" radius="28"/>
+		<difference x="489" y="27" radius="28"/>
+		<difference x="187" y="236" radius="28"/>
+		<difference x="301" y="270" radius="28"/>
+		<difference x="534" y="115" radius="28"/>
+		<difference x="89" y="375" radius="28"/>
+		<difference x="42" y="101" radius="28"/>
+	</stage>
+    <!-- duoc -->
+	<stage>
+		<image1>images/pic_15.jpg</image1>
+		<image2>images/pic_15a.jpg</image2>		
+		<difference x="343" y="51" radius="28"/>
+		<difference x="333" y="236" radius="28"/>
+		<difference x="40" y="338" radius="28"/>
+		<difference x="190" y="63" radius="28"/>
+		<difference x="232" y="393" radius="28"/>
+		<difference x="498" y="63" radius="28"/>
+		<difference x="84" y="242" radius="28"/>
+		<difference x="86" y="300" radius="28"/>
+		<difference x="371" y="243" radius="28"/>
+		<difference x="101" y="93" radius="28"/>
+		<difference x="215" y="60" radius="28"/>
+	</stage>
+    <!-- duoc -->
+	<stage>
+		<image1>images/pic_14.jpg</image1>
+		<image2>images/pic_14a.jpg</image2>		
+		<difference x="142" y="314" radius="28"/>
+		<difference x="375" y="200" radius="28"/>
+		<difference x="422" y="47" radius="28"/>
+		<difference x="376" y="164" radius="28"/>
+		<difference x="583" y="212" radius="28"/>
+		<difference x="322" y="63" radius="28"/>
+		<difference x="217" y="274" radius="28"/>
+		<difference x="131" y="51" radius="28"/>
+		<difference x="381" y="213" radius="28"/>
+	</stage>
+	
+    <!-- duoc -->
+   <stage>
+		<image1>images/pic_12.jpg</image1>
+		<image2>images/pic_12a.jpg</image2>		
+		<difference x="50" y="327" radius="28"/>
+		<difference x="14" y="219" radius="28"/>
+		<difference x="265" y="392" radius="28"/>
+		<difference x="539" y="271" radius="28"/>
+		<difference x="545" y="144" radius="28"/>
+		<difference x="311" y="94" radius="28"/>
+		<difference x="310" y="198" radius="28"/>
+		<difference x="225" y="251" radius="248"/>
+		<difference x="430" y="62" radius="28"/>
+	</stage>
+    <!-- duoc -->
+    <stage>
+		<image1>images/pic_11.jpg</image1>
+		<image2>images/pic_11a.jpg</image2>		
+		<difference x="188" y="72" radius="28"/>
+		<difference x="375" y="29" radius="28"/>
+		<difference x="76" y="316" radius="28"/>
+		<difference x="73" y="170" radius="28"/>
+		<difference x="564" y="249" radius="28"/>
+		<difference x="563" y="99" radius="28"/>
+		<difference x="349" y="325" radius="28"/>
+		<difference x="473" y="328" radius="28"/>
+	</stage>
+	<!-- duoc -->
+	<stage>
+		<image1>images/pic_16.jpg</image1>
+		<image2>images/pic_16a.jpg</image2>		
+		<difference x="86" y="57" radius="28"/>
+		<difference x="518" y="225" radius="28"/>
+		<difference x="321" y="382" radius="28"/>
+		<difference x="205" y="40" radius="28"/>
+		<difference x="398" y="52" radius="28"/>
+		<difference x="553" y="307" radius="28"/>
+		<difference x="289" y="126" radius="28"/>
+		<difference x="28" y="120" radius="28"/>
+	</stage>
+
+
+	<stage>
+		<image1>images/pic_10.jpg</image1>
+		<image2>images/pic_10a.jpg</image2>
+		<difference x="52" y="288" radius="28"/>
+		<difference x="155" y="113" radius="28"/>
+		<difference x="309" y="99" radius="28"/>
+		<difference x="539" y="142" radius="28"/>
+		<difference x="507" y="214" radius="28"/>
+		<difference x="352" y="342" radius="28"/>
+
+	</stage>
+
+	<stage>
+		<image1>images/pic_1.jpg</image1>
+		<image2>images/pic_1a.jpg</image2>
+		<difference x="265" y="361" radius="28"/>
+		<difference x="82" y="94" radius="28"/>
+		<difference x="239" y="18" radius="28"/>
+		<difference x="436" y="111" radius="28"/>
+		<difference x="240" y="284" radius="28"/>
+		<difference x="557" y="349" radius="28"/>
+		<difference x="522" y="408" radius="28"/>
+		<difference x="577" y="231" radius="28"/>
+
+</stage>
+		<stage>
+		<image1>images/pic_2.jpg</image1>
+		<image2>images/pic_2a.jpg</image2>
+		<difference x="114" y="91" radius="28"/>
+		<difference x="503" y="390" radius="28"/>
+		<difference x="226" y="288" radius="28"/>
+		<difference x="454" y="290" radius="28"/>
+		<difference x="561" y="157" radius="28"/>
+		<difference x="57" y="283" radius="28"/>
+		<difference x="19" y="16" radius="28"/>
+		<difference x="453" y="345" radius="28"/>
+
+</stage>
+	<stage>
+		<image1>images/pic_3.jpg</image1>
+		<image2>images/pic_3a.jpg</image2>
+		<difference x="112" y="33" radius="28"/>
+		<difference x="195" y="351" radius="28"/>
+		<difference x="359" y="229" radius="28"/>
+		<difference x="537" y="91" radius="28"/>
+		<difference x="305" y="80" radius="28"/>
+		<difference x="449" y="343" radius="28"/>
+		<difference x="201" y="376" radius="28"/>
+		<difference x="359" y="331" radius="28"/>
+		<difference x="267" y="96" radius="28"/>
+		<difference x="189" y="280" radius="28"/>
+		<difference x="306" y="108" radius="28"/>
+		<difference x="357" y="305" radius="28"/>
+	</stage>
+
+
+	<stage>
+		<image1>images/pic_5.jpg</image1>
+		<image2>images/pic_5a.jpg</image2>
+		<difference x="561" y="370" radius="28"/>
+		<difference x="262" y="114" radius="28"/>
+		<difference x="22" y="102" radius="28"/>
+		<difference x="138" y="200" radius="28"/>
+		<difference x="179" y="211" radius="28"/>
+		<difference x="86" y="237" radius="28"/>
+		<difference x="574" y="111" radius="28"/>
+		<difference x="322" y="248" radius="28"/>
+		<difference x="26" y="254" radius="28"/>
+		<difference x="27" y="217" radius="28"/>
+		<difference x="72" y="143" radius="28"/>
+		<difference x="401" y="188" radius="28"/>
+
+	</stage>
+
+
+
+
+
+	<stage>
+		<image1>images/pic_7.jpg</image1>
+		<image2>images/pic_7a.jpg</image2>
+		<difference x="101" y="347" radius="28"/>
+		<difference x="508" y="373" radius="28"/>
+		<difference x="263" y="349" radius="28"/>
+		<difference x="529" y="183" radius="28"/>
+		<difference x="84" y="150" radius="28"/>
+		<difference x="406" y="87" radius="28"/>
+		<difference x="218" y="338" radius="28"/>
+		<difference x="557" y="330" radius="28"/>
+		<difference x="318" y="167" radius="28"/>
+		<difference x="100" y="286" radius="28"/>
+
+	</stage>
+
+	<stage>
+		<image1>images/pic_8.jpg</image1>
+		<image2>images/pic_8a.jpg</image2>
+		<difference x="201" y="306" radius="28"/>
+		<difference x="409" y="43" radius="28"/>
+		<difference x="371" y="231" radius="28"/>
+		<difference x="135" y="207" radius="28"/>
+		<difference x="389" y="106" radius="28"/>
+		<difference x="280" y="193" radius="28"/>
+		<difference x="167" y="218" radius="28"/>
+		<difference x="383" y="290" radius="28"/>
+		<difference x="434" y="341" radius="28"/>
+		<difference x="245" y="130" radius="28"/>
+
+	</stage>
+
+</stages>
